@@ -1,9 +1,6 @@
 # 🛍️ NULA ECommerce
 ### **Scalable and Modern E-Commerce Platform**
 
-![NULA ECommerce](https://img.shields.io/badge/Status-Active-brightgreen)  
-![GitHub Stars](https://img.shields.io/github/stars/goutham3507/NULA?style=social)  
-![GitHub Forks](https://img.shields.io/github/forks/goutham3507/NULA?style=social)
 
 NULA is a **modern e-commerce platform** designed for seamless online shopping experiences. It integrates **secure payments, user authentication, product management, and a dynamic UI** to provide a complete e-commerce solution.
 
